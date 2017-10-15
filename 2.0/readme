@@ -1,0 +1,8 @@
+进行了一下改进：
+
+执行顺序：
+  check_onling_4.py   读取待检查内容
+  check_dep.py    检查依赖填写情况
+  execute_dsql_and_check.py  自动执行DSQL
+  
+  
