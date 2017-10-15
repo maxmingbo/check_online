@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 10 11:25:44 2017
 对上线清单，依赖变更进行检查。
-@author: 80374769
+@author
 """
 
 import os
